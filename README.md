@@ -10,7 +10,7 @@ I share the solutions here.
 
 For my student and friends who ask me about their problems, after I found the solution I will put it here.
 
-
+> There is cool stuff in Terminal Customization by AMS folder check it out 😎
 
 Thanks for reading
 
