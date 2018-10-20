@@ -161,7 +161,7 @@ By default, word jumps (option + → or ←) and word deletions (option +  backs
 
 
 
-###Custom prompt styles
+### Custom prompt styles
 
 By default, your prompt will now show “user@hostname” in the prompt. This will make your prompt rather bloated. Optionally set `DEFAULT_USER` in `~/.zshrc`  to your regular username (these must match) to hide the “user@hostname”  info when you’re logged in as yourself on your local machine. You can  get your exact username value by executing `whoami` in the terminal.
 
@@ -169,7 +169,7 @@ For further customisation of your prompt, you can follow a great guide here: <ht
 
 
 
-###Syntax highlighting
+### Syntax highlighting
 
 ```
 brew install zsh-syntax-highlighting
@@ -187,7 +187,7 @@ to **the end** of your `.zshrc` file. After that, it's best to restart your term
 
 
 
-###Visual Studio Code config
+### Visual Studio Code config
 
 Installing a patched font will mess up the integrated terminal in VS  Code unless you use the proper settings. You'll need to go to settings  (CMD + ,) and add or edit the following values:
 
