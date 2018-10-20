@@ -619,3 +619,9 @@ Set 2
 
 
 ![1](IMG/1.png)
+
+
+
+## Completed Terminal Demo
+
+![2](IMG/2.gif)
