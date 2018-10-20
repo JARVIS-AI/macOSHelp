@@ -119,7 +119,7 @@ Powerlevel9k offers a whole lot more, best is to [check out these user made conf
 
 
 
-####Install a patched font
+### Install a patched font
 
 - [Meslo](https://github.com/powerline/fonts/blob/master/Meslo%20Slashed/Meslo%20LG%20M%20Regular%20for%20Powerline.ttf) (the one in the screenshot). Click "view raw" to download the font.
 - [Source Code Pro](https://github.com/powerline/fonts/blob/master/SourceCodePro/Source%20Code%20Pro%20for%20Powerline.otf) has better alignment for the glyphs @14px.
@@ -133,7 +133,7 @@ Restart iTerm2 for all changes to take effect.
 
 
 
-####Further tweaking
+### Further tweaking
 
 Things like
 
