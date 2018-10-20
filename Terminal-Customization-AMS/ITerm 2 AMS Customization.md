@@ -2,9 +2,9 @@
 
 Terminal CLI (Command Line Tool) has a some major upgrades too like any other technologies in every major science that has grown up, CLI has too.
 
-With help of many NERD and GEEKS that loves to done their works with CLI from 80 ~ 90 to 21 Centeries
+With help of many NERDs 🤓 and GEEKs 🧐 that loves to done their works with CLI from 80 ~ 90 to 21 Centeries
 
-So In this gits I show you how to do this :)
+So In this gits I show you how to do this ;)
 
 
 
@@ -18,9 +18,8 @@ So In this gits I show you how to do this :)
 6. Edited Font
 7. Settings
 8. Color Scheme
-9. 
-10. Passion and Be Cool with Problems and issues
-11. Internet for download things
+9. Passion and Be Cool with Problems and issues
+10. Internet for download things
 
 
 
@@ -362,28 +361,6 @@ alias tree="git log --graph --decorate --pretty=oneline --abbrev-commit"
 # End of Aliases ZSH
 
 
-# ----------------------
-# Custome JARVIS Aliases
-# ----------------------
-alias cls='clear'
-alias AMS='uname -a'
-alias DIR='dir'
-alias CD='cd'
-alias LS='ls'
-alias ll='ls -a'
-alias lll='ls -la'
-alias cat='ccat'
-alias llll='ls -la -x'
-alias Hello='echo "Hello, How are you JARVIS today ? Are you OK to do WORKS ??!"'
-alias YES='echo "So then check your permissions for this system for HACKING Ohter systems if you want to hack systems :D ???"'
-alias htr='httrack'
-alias mkr='mkdir'
-alias wg='wget -rkp'
-alias wg2='wget -rkp -m --random-wait -e robots=off -U Mozilla -l 0 -o LOGed.txt -v -d'
-alias wg3='wget -rkp -e robots=off -o LOGed.log -v'
-alias mic='micro'
-# ----------------------
-
 # Zprezto Config Initialization
 source "${ZDOTDIR:-$HOME}/.zprezto/init.zsh"
 
@@ -514,67 +491,6 @@ POWERLEVEL9K_PROMPT_ON_NEWLINE=true
 POWERLEVEL9K_DIR_OMIT_FIRST_CHARACTER=true
 # ------------------------------------------------
 
-# NVM Configs
-export NVM_DIR="$HOME/.nvm"
-[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
-[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
-
-
-# Ruby Version Manager
-export PATH="$HOME/.rbenv/bin:$PATH"
-eval "$(rbenv init -)"
-
-# Sqlite
-export PATH="/usr/local/opt/sqlite/bin:$PATH"
-
-# XML Catalog
-export XML_CATALOG_FILES="/usr/local/etc/xml/catalog"
-
-# Sphinx Dox
-# export PATH="/usr/local/opt/sphinx-doc/bin:$PATH"
-
-# GoROOT
-export PATH=$PATH:/usr/local/opt/go/libexec/bin
-
-# QT
-export PATH="/Users/jarvismercer/.qt/Qt5.11.1/5.11.1/clang_64/bin:$PATH"
-
-# Perl6 Rakudo
-export PATH=$PATH:/Applications/Rakudo/bin:/Applications/Rakudo/share/perl6/site/bin
-
-# OpenSSL
-export PATH="/usr/local/opt/openssl/bin:$PATH"
-
-#CCTOOLS
-export PATH="/usr/local/opt/cctools/bin:$PATH"
-
-# OPAM by OCaml
-test -r /Users/jarvismercer/.opam/opam-init/init.zsh && . /Users/jarvismercer/.opam/opam-init/init.zsh > /dev/null 2> /dev/null || true
-
-# MANPAGE of erlang
-MANPATH=/usr/local/opt/erlang/lib/erlang/man:$MANPATH
-
-# Scala
-export PATH="/usr/local/opt/scala/idea:$PATH"
-
-# Python Version Manager PYENV
-export PYENV_ROOT="$HOME/.pyenv"
-export PATH="$PYENV_ROOT/bin:$PATH"
-eval "$(pyenv init -)"
-# PYENV VIRTUALENV
-eval "$(pyenv virtualenv-init -)"
-
-
-#MacPort
-# export PATH=/opt/local/bin:/opt/local/sbin:$PATH
-
-
-# Custom command in UNIX Mac Linux By Myself
-# Create a Folder in your Home Directory and name it yourself
-# Put your codes in there and export the path directory in your Shells config
-# ================================================
-
-export PATH="/Users/jarvismercer/My_Commands_UNIX/bin:$PATH"
 ```
 
 
@@ -624,4 +540,4 @@ Set 2
 
 ## Completed Terminal Demo
 
-![2](IMG/2.gif)
+![3](IMG/3.gif)
