@@ -8,7 +8,7 @@ So In this gits I show you how to do this ;)
 
 
 
-##🗓 Requirments :
+## 🗓 Requirments :
 
 1. UNIX Based OS 😎
 2. Terminal Them
